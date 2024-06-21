@@ -57,11 +57,11 @@ In this project, we analyze the competitive strategies of Amazon and Walmart wit
 
 ### Authors
 
-Joanna Chen
-Parthkumar Kanani
-Sakshi Agarwal
-Han Wang
-Nina Gu
+- Joanna Chen
+- Parthkumar Kanani
+- Sakshi Agarwal
+- Han Wang
+- Nina Gu
 
 ### Acknowledgments
 
